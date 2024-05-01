@@ -1,0 +1,45 @@
+{
+    "translation": {},
+    "home": {
+        "introHome": "Browse the portfolio",
+        "aboutHome": "ABOUT",
+        "descriptionHome": "My name is Luan Fagioni. I have been a Developer for 3 years and worked as a teacher, teaching web courses with Html, CSS, Js and game courses with Lua, solar2d and construct2, I am currently graduating in computer science and studying to become a full stack dev.",
+        "devHome": "Developer",
+        "subTitle": "In progress...",
+        "faixaHome": "Available for intership"
+    },
+    "skills": {
+        "skillsTitle": "Skills",
+        "reactDescription": "Interactive interface library.",
+        "javascriptDescription": "Language for web development.",
+        "typescriptDescription": "JavaScript superset.",
+        "styledcomponentsDescription": "Component styling.",
+        "sassDescription": "Styles preprocessor.",
+        "tailwindDescription": "Utility CSS framework.",
+        "bootstrapDescription": "Responsive CSS framework.",
+        "cssDescription": "Page styling.",
+        "htmlDescription": "Web page markup.",
+        "angularDescription": "Scalable framework.",
+        "nodeDescription": "JavaScript Server Environment.",
+        "nextDescription": "JavaScript framework for web development.",
+        "cssmodulesDescription": "Page styling in modules.",
+        "luaDescription": "Programming language",
+        "gitDescription": "code versioning",
+        "figmaDescription": "Design for pages",
+        "photoshopDescription": "Design for pages",
+        "ionicDescription": "Scalable framework mobile.",
+        "pugDescription": "Scalable framework for Html5",
+        "materializeDescription": "Utility CSS library.",
+        "studyingandlearningTitle": "Studying & learning"
+    },
+    "project": {
+        "codeContent1": "project1 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent2": "project2 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent3": "project3 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent4": "project4 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent5": "project5 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent6": "project6 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent7": "project7 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
+        "codeContent8": "project8 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}"
+    }
+}
