@@ -44,7 +44,7 @@ const SkillsSize = styled.div`
     overflow-y: auto;
     width: 100%;
     margin: 0 auto;
-    height: 87%;
+    height: 100%;
     margin: 1rem 0;
     @media (max-width: 500px) {
         margin: 1rem 0;
@@ -84,6 +84,19 @@ const LearningSkills = styled.h2`
     margin-left: 55px;
     padding-left: 1rem;
 `
+const MainSkills = styled.h2`
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    margin: 0rem 0rem 1rem 0rem;
+    color: white;
+    font-weight: 610;
+    margin-left: 55px;
+    padding-left: 1rem;
+    @media (max-width: 500px) {
+        margin-top: 50px
+    }
+`
+
 const SkillAdjustSize = styled.div`
     max-width: 1200px;
     width: 100%;
@@ -103,6 +116,7 @@ const Skills = () => {
             <h1>Skills</h1>
             <SkillsSize>
                 <SkillAdjustSize>
+                    <MainSkills>{t("skills.mainSkillsTitle")}</MainSkills>
                     <SkillsWrap>
                         <LanguageSkill
                             icon={React} 

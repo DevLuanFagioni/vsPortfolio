@@ -30,16 +30,21 @@
         "ionicDescription": "Scalable framework mobile.",
         "pugDescription": "Scalable framework for Html5",
         "materializeDescription": "Utility CSS library.",
-        "studyingandlearningTitle": "Studying & learning"
+        "studyingandlearningTitle": "Studying & learning",
+        "mainSkillsTitle": "Main Skills"
     },
     "project": {
-        "codeContent1": "project1 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent2": "project2 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent3": "project3 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent4": "project4 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent5": "project5 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent6": "project6 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent7": "project7 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}",
-        "codeContent8": "project8 {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}"
+        "frontEndTitle": "Front end projects",
+        "backEndTitle": "Back end projects",
+        "fullStackTitle": "Full Stack projects",
+        "gameTitle": "Game projects",
+        "contentImagiflix": "project {\n    name: 'Imagiflix',\n    stacks: 'example'\n}",
+        "contentStudion": "project {\n    name: 'Studion',\n    stacks: 'example'\n}",
+        "contentPortfolio": "project {\n    name: 'Portfolio v1',\n    stacks: 'example'\n}",
+        "contentVsPortfolio": "project {\n    name: 'Vs Portfolio',\n    stacks: 'example'\n}",
+        "contentMagbank": "project {\n    name: 'Magbank',\n    stacks: 'example'\n}",
+        "contentFreitas": "project {\n    name: 'Freitas',\n    stacks: 'example'\n}",
+        "contentSnake": "project {\n    name: 'Snake game',\n    stacks: 'example'\n}",
+        "contentTest": "project {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}"
     }
 }
