@@ -34,10 +34,11 @@
         "mainSkillsTitle": "Main Skills"
     },
     "project": {
-        "frontEndTitle": "Front end projects",
-        "backEndTitle": "Back end projects",
-        "fullStackTitle": "Full Stack projects",
-        "gameTitle": "Game projects",
+        "frontEndTitle": "Front-end",
+        "backEndTitle": "Back-end",
+        "fullStackTitle": "Full-Stack",
+        "gameTitle": "Game",
+        "allTitle": "All",
         "contentImagiflix": "project {\n    name: 'Imagiflix',\n    stacks: 'example'\n}",
         "contentStudion": "project {\n    name: 'Studion',\n    stacks: 'example'\n}",
         "contentPortfolio": "project {\n    name: 'Portfolio v1',\n    stacks: 'example'\n}",

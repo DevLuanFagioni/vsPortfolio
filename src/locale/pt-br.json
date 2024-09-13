@@ -34,10 +34,11 @@
         "mainSkillsTitle": "Principais Habilidades"
     },
     "project": {
-        "frontEndTitle": "Projetos Front end",
-        "backEndTitle": "Projetos Back end",
-        "fullStackTitle": "Projetos Full Stack",
-        "gameTitle": "Projetos de Jogos",
+        "frontEndTitle": "Front-end",
+        "backEndTitle": "Back-end",
+        "fullStackTitle": "Full-Stack",
+        "gameTitle": "Jogos",
+        "allTitle": "Todos",
         "contentImagiflix": "projeto {\n    nome: 'Imagiflix',\n    tecnologias: 'exemplo'\n}",
         "contentStudion": "projeto {\n    nome: 'Studion',\n    tecnologias: 'exemplo'\n}",
         "contentPortfolio": "projeto {\n    nome: 'Portfolio v1',\n     tecnologias: 'exemplo'\n}",

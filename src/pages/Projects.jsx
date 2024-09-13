@@ -128,7 +128,7 @@ const Projects = () => {
                     <Button onClick={() => setFilter('backend')} >{t("project.backEndTitle")}</Button>
                     <Button onClick={() => setFilter('fullstack')} >{t("project.fullStackTitle")}</Button>
                     <Button onClick={() => setFilter('game')} >{t("project.gameTitle")}</Button>
-                    <Button onClick={() => setFilter('all')}>Todos</Button>
+                    <Button onClick={() => setFilter('all')}>{t("project.allTitle")}</Button>
                 </ContainerButton>
 
                 <ProjectSize>
