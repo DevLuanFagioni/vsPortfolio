@@ -109,8 +109,8 @@ const Projects = () => {
     const projects = [
         { id: 1, type: 'frontend', content: 'project.contentImagiflix', background: imagiflix, deploy:'', repository: ''},
         { id: 2, type: 'frontend', content: 'project.contentFreitas', background: freitas, deploy:'', repository: ''},
-        { id: 3, type: 'backend', content: 'project.contentMagbank', background: magbank, deploy:'', repository: ''},
-        { id: 4, type: 'backend', content: 'project.contentPortfolio', background: portfolio, deploy:'', repository: ''},
+        { id: 3, type: 'frontend', content: 'project.contentMagbank', background: magbank, deploy:'', repository: ''},
+        { id: 4, type: 'frontend', content: 'project.contentPortfolio', background: portfolio, deploy:'', repository: ''},
         { id: 5, type: 'frontend', content: 'project.contentVsPortfolio', background: vsPortfolio, deploy:'', repository: ''},
         { id: 6, type: 'frontend', content: 'project.contentStudion', background: studion, deploy:'', repository: ''},
         { id: 7, type: 'game', content: 'project.contentSnake', background: snake, deploy:'', repository: ''}
