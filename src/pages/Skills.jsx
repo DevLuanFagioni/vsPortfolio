@@ -1,7 +1,6 @@
 import LanguageSkill from '../components/LanguageSkill'
 import TabFiles from './Layout/TabFiles'
 import styled, {keyframes} from 'styled-components'
-import Angular from '../assets/skills/angular.png'
 import Bootstrap from '../assets/skills/bootstrap.png'
 import Css from '../assets/skills/css.png'
 import HTML from '../assets/skills/html.png'
@@ -19,7 +18,6 @@ import Figma from '../assets/skills/figma.png'
 import Photoshop from '../assets/skills/photoshop.png'
 import Pugjs from '../assets/skills/pugjs.png'
 import Lua from '../assets/skills/lua.png'
-import Ionic from '../assets/skills/ionic.png'
 import Materialize from '../assets/skills/materialize.png'
 
 
@@ -200,16 +198,6 @@ const Skills = () => {
                                 icon={Typescript}
                                 title="TypeScript" 
                                 description={t("skills.typescriptDescription")}
-                            />
-                            <LanguageSkill
-                                icon={Angular}
-                                title="Angular" 
-                                description={t("skills.angularDescription")}
-                            />
-                            <LanguageSkill
-                                icon={Ionic}
-                                title="Ionic" 
-                                description={t("skills.ionicDescription")}
                             />
                             <LanguageSkill
                                 icon={Nodejs}
