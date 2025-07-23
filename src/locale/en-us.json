@@ -39,13 +39,40 @@
         "fullStackTitle": "Full-Stack",
         "gameTitle": "Game",
         "allTitle": "All",
-        "contentImagiflix": "project {\n    name: 'Imagiflix',\n    stacks: 'example'\n}",
         "contentStudion": "project {\n    name: 'Studion',\n    stacks: 'example'\n}",
         "contentPortfolio": "project {\n    name: 'Portfolio v1',\n    stacks: 'example'\n}",
         "contentVsPortfolio": "project {\n    name: 'Vs Portfolio',\n    stacks: 'example'\n}",
         "contentMagbank": "project {\n    name: 'Magbank',\n    stacks: 'example'\n}",
         "contentFreitas": "project {\n    name: 'Freitas',\n    stacks: 'example'\n}",
-        "contentSnake": "project {\n    name: 'Snake game',\n    stacks: 'example'\n}",
-        "contentTest": "project {\n    name: 'Nome do projeto',\n    stacks: 'example'\n}"
+
+        "contentPeriodicTableSound": "project {\n    name: 'Periodic-table-sound',\n   stacks: 'exemplo'\n}",
+        "contentCyberPunkPortfolio": "project {\n    name: 'CyberPunk-portfolio',\n   stacks: 'exemplo'\n}",
+        "contentImcReact": "project {\n    name: 'Imc-react',\n   stacks: 'exemplo'\n}",
+        "contentOpinaCine": "project {\n    name: 'Opina-cine',\n   stacks: 'exemplo'\n}",
+        "contentWallet": "project {\n    name: 'Wallet',\n   stacks: 'exemplo'\n}",
+        "contentFabricaDeMonstros": "project {\n    name: 'Fabrica-de-monstros',\n   stacks: 'exemplo'\n}",
+        "contentRickAndMorty": "project {\n    name: 'Rick-and-morty',\n   stacks: 'exemplo'\n}",
+        "contentIgniteFeed": "project {\n    name: 'Ignite-feed',\n   stacks: 'exemplo'\n}",
+        "contentStateWeb": "project {\n    name: 'State-web',\n   stacks: 'exemplo'\n}",
+        "contentFigmaLand": "project {\n    name: 'FigmaLand',\n    tecnologias: 'Html5, Taiwind'\n}"
+    },
+    "guides": {
+        "contentHtml": "guide {\n    about: '...' \n}",
+        "contentPugJs": "guide {\n    about: '...' \n}",
+        "contentCss": "guide {\n    about: '...' \n}",
+        "contentStyledComponents": "guide {\n    about: '...' \n}",
+        "contentSass": "guide {\n    about: '...' \n}",
+        "contentTailwind": "guide {\n    about: '...' \n}",
+        "contentBootstrap": "guide {\n    about: '...' \n}",
+        "contentMaterialize": "guide {\n    about: '...' \n}",
+        "contentCssModules": "guide {\n    about: '...' \n}",
+        "contentJson": "guide {\n    about: '...' \n}",
+        "contentJavaScript": "guide {\n    about: '...' \n}",
+        "contentTypeScript": "guide {\n    about: '...' \n}",
+        "contentReact": "guide {\n    about: '...' \n}",
+        "contentReactHooks": "guide {\n    about: '...' \n}",
+        "contentNext": "guide {\n    about: '...' \n}",
+        "contentDocker": "guide {\n    about: '...' \n}",
+        "contentSolar2d": "guide {\n    about: '...' \n}"
     }
 }
