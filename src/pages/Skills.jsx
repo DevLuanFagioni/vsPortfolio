@@ -122,6 +122,11 @@ const Skills = () => {
                             description={t("skills.reactDescription")}
                         />
                         <LanguageSkill
+                            icon={NextJS}
+                            title="NextJS"
+                            description={t("skills.nextDescription")}
+                        />
+                        <LanguageSkill
                             icon={Javascript}
                             title="JavaScript" 
                             description={t("skills.javascriptDescription")}
@@ -203,11 +208,6 @@ const Skills = () => {
                                 icon={Nodejs}
                                 title="NodeJS" 
                                 description={t("skills.nodeDescription")}
-                                />
-                            <LanguageSkill
-                                icon={NextJS}
-                                title="NextJS"
-                                description={t("skills.nextDescription")}
                             />
                         </SkillsWrap2>
                 </SkillAdjustSize>
