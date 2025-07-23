@@ -66,7 +66,7 @@ const TopSize = styled.div`
 `;
 const ImageContainer = styled.div`
   background-image: url(${(props) => props.backgroundImage});
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   width: 90%;
