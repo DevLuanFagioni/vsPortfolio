@@ -66,6 +66,7 @@
         "contentBootstrap": "guia {\n    conteudo: '...' \n}",
         "contentMaterialize": "guia {\n    conteudo: '...' \n}",
         "contentJson": "guia {\n    conteudo: '...' \n}",
+        "contentGit": "guia {\n    conteudo: '...' \n}",
         "contentJavaScript": "guia {\n    conteudo: '...' \n}",
         "contentTypeScript": "guia {\n    conteudo: '...' \n}",
         "contentReact": "guia {\n    conteudo: '...' \n}",
