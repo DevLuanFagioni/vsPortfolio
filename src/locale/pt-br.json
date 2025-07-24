@@ -42,20 +42,20 @@
         "contentImagiflix": "projeto {\n    nome: 'Imagiflix',\n    tecnologias: 'Html5, Jquery, Sass, \n    TheMovieDB API '\n}",
         "contentStudion": "projeto {\n    nome: 'Studion',\n    tecnologias: 'Html5, Css3, \n    JavaScript'\n}",
         "contentPortfolio": "projeto {\n    nome: 'Portfolio v1',\n     tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
-        "contentVsPortfolio": "projeto {\n    nome: 'Vs Portfolio',\n    tecnologias: 'exemplo'\n}",
+        "contentVsPortfolio": "projeto {\n    nome: 'Vs Portfolio',\n    tecnologias: 'React, StyledComponents, i18n'\n}",
         "contentMagbank": "projeto {\n    nome: 'Magbank',\n    tecnologias: 'Html5, Bootstrap, \n    JavaScript'\n}",
         "contentFreitas": "projeto {\n    nome: 'Freitas',\n    tecnologias: 'PugJs, Sass'\n}",
 
         "contentPeriodicTableSound": "projeto {\n    nome: 'Periodic-table-sound',\n    tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
         "contentCyberPunkPortfolio": "projeto {\n    nome: 'CyberPunk-portfolio',\n    tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
-        "contentImcReact": "projeto {\n    nome: 'Imc-react',\n    tecnologias: React, Css Modules'\n}",
+        "contentImcReact": "projeto {\n    nome: 'Imc-react',\n    tecnologias: 'React, Css Modules'\n}",
         "contentOpinaCine": "projeto {\n    nome: 'Opina-cine',\n    tecnologias: 'Html5, Css3'\n}",
         "contentWallet": "projeto {\n    nome: 'Wallet',\n    tecnologias: 'Html5, Css3'\n}",
         "contentFabricaDeMonstros": "projeto {\n    nome: 'Fabrica-de-monstros',\n    tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
-        "contentRickAndMorty": "projeto {\n    nome: 'Rick-and-morty',\n    tecnologias: 'exemplo'\n}",
-        "contentIgniteFeed": "projeto {\n    nome: 'Ignite-feed',\n    tecnologias: 'React, Css Modules\n}",
+        "contentRickAndMorty": "projeto {\n    nome: 'Rick-and-morty',\n    tecnologias: 'Html5, Css3, JavaScript, RickAndMortyAPI'\n}",
+        "contentIgniteFeed": "projeto {\n    nome: 'Ignite-feed',\n    tecnologias: 'React, Css Modules'\n}",
         "contentStateWeb": "projeto {\n    nome: 'State-web',\n    tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
-        "contentFigmaLand": "projeto {\n    nome: 'FigmaLand',\n    tecnologias: 'Html5, Taiwind'\n}"
+        "contentFigmaLand": "projeto {\n    nome: 'FigmaLand',\n    tecnologias: 'Html5, TailwindCss'\n}"
     },
     "guides": {
         "contentHtml": "guia {\n    conteudo: 'Guia completo sobre HTML' \n}",
