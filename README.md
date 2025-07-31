@@ -3,7 +3,7 @@
 
 Meu portfólio pessoal oficial, inspirado na interface do VSCode, o que o torna especial. Foi uma jornada emocionante codificar este projeto, utilizando React, Styled Components, React Icons, React Router Dom e i18next para internacionalização.
 
-**Para explorar o Portfólio VSCode, visite ....**
+**Para explorar o Portfólio VSCode, visite: https://luanfagioni.netlify.app/**
 
 ## Sobre o Projeto
 
