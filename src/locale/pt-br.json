@@ -55,7 +55,12 @@
         "contentRickAndMorty": "projeto {\n    nome: 'Rick-and-morty',\n    tecnologias: 'Html5, Css3, JavaScript, RickAndMortyAPI'\n}",
         "contentIgniteFeed": "projeto {\n    nome: 'Ignite-feed',\n    tecnologias: 'React, Css Modules'\n}",
         "contentStateWeb": "projeto {\n    nome: 'State-web',\n    tecnologias: 'Html5, Css3, \n     JavaScript'\n}",
-        "contentFigmaLand": "projeto {\n    nome: 'FigmaLand',\n    tecnologias: 'Html5, TailwindCss'\n}"
+        "contentFigmaLand": "projeto {\n    nome: 'FigmaLand',\n    tecnologias: 'Html5, TailwindCss'\n}",
+
+        "contentApiUsers": "projeto {\n    nome: 'API Users',\n    tecnologias: 'NodeJs, Express, Prisma ORM e MongoDB'\n}",
+        "contentApiCrud": "projeto {\n    nome: 'API Crud',\n    tecnologias: 'NodeJs, Express, Ejs e Mongoose'\n}",
+        "contentShadcnVue": "projeto {\n    nome: 'ShadcnVue',\n    tecnologias: 'Vue, TypeScript, Shadcn/ui'\n}",
+        "contentLaunchVue": "projeto {\n    nome: 'LaunchVue',\n    tecnologias: 'Vue, Css3'\n}"
     },
     "guides": {
         "contentHtml": "guia {\n    conteudo: 'Guia completo sobre HTML' \n}",
