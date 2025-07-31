@@ -13,7 +13,7 @@ import rickyAndMorty from '../assets/projects/ricy-and-morty.png'
 import stateWeb from '../assets/projects/state-web.png'
 import wallet from '../assets/projects/wallet.png'
 import studion from '../assets/projects/studion.png'
-import apiImage from '../assets/projects/apiImage.jpeg'
+import apiImage from '../assets/projects/apiImage.png'
 import shadcnVue from '../assets/projects/shadcn-vue.png'
 import launchVue from '../assets/projects/launch-vue.png'
 
