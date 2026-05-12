@@ -180,7 +180,6 @@ const Home = () => {
                     <TitleDev>{t('home.devHome')}</TitleDev>
                     <TitleDev2>Dev</TitleDev2>
                     <TitleFrontend>Full stack</TitleFrontend>
-                    <SubTitle>{t('home.subTitle')}</SubTitle>
                 </InfoTitle>
                 <Faixa>
                     <p>{t('home.faixaHome')}</p>

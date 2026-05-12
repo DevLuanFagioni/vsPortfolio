@@ -19,6 +19,17 @@ import Photoshop from '../assets/skills/photoshop.png'
 import Pugjs from '../assets/skills/pugjs.png'
 import Lua from '../assets/skills/lua.png'
 import Materialize from '../assets/skills/materialize.png'
+import Vue from '../assets/skills/vue.png'
+import Pinia from '../assets/skills/pinia.png'
+import Docker from '../assets/skills/docker.png'
+import Postgres from '../assets/skills/postgres.png'
+import IA from '../assets/skills/IA.png'
+import Java from '../assets/skills/java.png'
+import Quarkus from '../assets/skills/quarkus.png'
+import SpringBoot from '../assets/skills/spring-boot.png'
+import RabbitMQ from '../assets/skills/rabbitmq.png'
+import Redis from '../assets/skills/redis.png'
+import Nginx from '../assets/skills/nginx.png'
 
 
 import { useTranslation } from "react-i18next";
@@ -132,6 +143,36 @@ const Skills = () => {
                             description={t("skills.javascriptDescription")}
                         />
                         <LanguageSkill
+                            icon={Typescript}
+                            title="TypeScript" 
+                            description={t("skills.typescriptDescription")}
+                        />
+                        <LanguageSkill
+                            icon={Vue}
+                            title="Vue 3" 
+                            description={t("skills.vueDescription")}
+                        />
+                        <LanguageSkill
+                            icon={Pinia}
+                            title="Pinia" 
+                            description={t("skills.piniaDescription")}
+                        />
+                        <LanguageSkill
+                            icon={Docker}
+                            title="Docker" 
+                            description={t("skills.dockerDescription")}
+                        />
+                        <LanguageSkill
+                            icon={Postgres}
+                            title="PostgreSQL" 
+                            description={t("skills.postgresDescription")}
+                        />
+                        <LanguageSkill
+                            icon={IA}
+                            title="IA" 
+                            description={t("skills.iaDescription")}
+                        />
+                        <LanguageSkill
                             icon={StyledComponents}
                             title="Styled Components" 
                             description={t("skills.styledcomponentsDescription")}
@@ -200,14 +241,39 @@ const Skills = () => {
                         <LearningSkills>{t("skills.studyingandlearningTitle")}</LearningSkills>
                         <SkillsWrap2>
                             <LanguageSkill
-                                icon={Typescript}
-                                title="TypeScript" 
-                                description={t("skills.typescriptDescription")}
-                            />
-                            <LanguageSkill
                                 icon={Nodejs}
                                 title="NodeJS" 
                                 description={t("skills.nodeDescription")}
+                            />
+                            <LanguageSkill
+                                icon={Nginx}
+                                title="Nginx" 
+                                description={t("skills.nginxDescription")}
+                            />
+                            <LanguageSkill
+                                icon={Redis}
+                                title="Redis" 
+                                description={t("skills.redisDescription")}
+                            />
+                            <LanguageSkill
+                                icon={RabbitMQ}
+                                title="RabbitMQ" 
+                                description={t("skills.rabbitmqDescription")}
+                            />
+                            <LanguageSkill
+                                icon={Java}
+                                title="Java" 
+                                description={t("skills.javaDescription")}
+                            />
+                            <LanguageSkill
+                                icon={Quarkus}
+                                title="Quarkus" 
+                                description={t("skills.quarkusDescription")}
+                            />
+                            <LanguageSkill
+                                icon={SpringBoot}
+                                title="Spring Boot" 
+                                description={t("skills.springbootDescription")}
                             />
                         </SkillsWrap2>
                 </SkillAdjustSize>
